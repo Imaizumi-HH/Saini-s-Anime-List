@@ -1,0 +1,2747 @@
+            body{
+                background-color:  #03142E;
+                background-size: cover;
+                background-position: center;
+            }
+            
+            h1{
+               color: white;
+               text-align: center;
+               font-size: 50px;
+               margin-bottom: 50px;
+            }
+            #muteButton {
+               font-family: 'Material Icons';
+               float: left;
+               border: none;
+               background: #03142E;
+               color: white;
+               text-align: center;
+               padding: 20px 22px;
+               text-decoration: none;
+               font-size: 17px;
+               border: 1px solid white;
+               border-radius:7px ;
+           }
+
+
+
+            .scontainer{
+               background-color: #081125;
+               padding-bottom: 150px;
+               padding-top: 20px;
+               box-shadow: 0px 0px 10px hwb(0 70% 29% / 0.57);
+               border-radius: 25px;
+            }
+            .search{
+               position: absolute; 
+               left: 50%; 
+               transform: translate(-50%,0%);
+               display: flex;
+               width:max-content;
+               align-items: center;
+               padding: 20px;
+               border-radius: 40px;
+               background-color: white;
+               
+            }
+            .search-input{ 
+               margin-left: 20px;
+               font-size: 20px;
+               color: black;
+               outline: none;
+               border: none;
+               background-color: transparent;
+            }
+            .search:hover{
+               background-color: #17B8EF;
+               color: white;
+            }
+            .saira-stencil-one-regular {
+               font-family: "Saira Stencil One", sans-serif;
+               font-weight: 400;
+               font-style: normal;
+            }
+            
+
+            image{
+                display: flex;
+                
+            }
+            img{
+               border: 5px solid #17B8EF;
+               cursor: pointer;
+            }
+            a{
+                background-color: white;
+                padding: 3.5px 10px;
+                font-size: 20px;
+                border-radius: 10px;
+            }
+
+            a:hover{
+               color: white;
+               background-color: #17B8EF;
+
+            }
+
+            .navbar {
+                overflow: hidden;
+                background-color: transparent;
+                position: fixed;
+                bottom: 0;
+                height: 65px;
+                width: 100%;
+                z-index: 999;
+                left: 450px;   
+              }    
+              .navbar a {
+                float: left;
+                display: block;
+                background-color: #03142E;
+                color: white;
+                text-align: center;
+                padding: 20px 22px;
+                text-decoration: none;
+                font-size: 17px;
+                border: 1px solid white;
+                
+              }
+              
+              .navbar a:hover {
+                background: #17B8EF;
+                color: white;
+              }
+              
+              .navbar a.active {
+                background-color: #17B8EF;
+                color: white;
+              }
+
+              .sal {
+               display: none;
+              }
+               .sal.active {
+               display: block;
+              }
+
+              hr{
+                 color: #17B8EF;
+
+              }
+
+              .aba{
+                position: absolute;
+                top: 7290px;
+              }
+
+            /* SAL 1 page 1 (1 to 51) -----------------------------------------> */
+            /* -----------------------------------------> */
+
+            .naruto{
+               color: white;
+               position: absolute;
+               left: 40px;
+               top: 40px;
+            }
+            #sasuke {
+               display: none;
+               position: absolute;
+               left: 390px;
+               top: 0;
+               width: 420px;
+               height: 245px;
+               border: 2px solid white;
+               z-index: 10;
+            }
+            .pokemon{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            #misty{
+               display: none;
+               position: absolute;
+               left: 760px;
+               top: 0;
+               width: 420px;
+               height: 245px;
+               border: 2px solid white;
+               z-index: 10;
+            }
+            .onepiece{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .sevendeadlysins{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }
+            .deathnote{
+               position: absolute;
+               color: white;
+               top:570px;
+               left: 40px;
+            }
+            .drstone{
+               position: absolute;
+               color: white;
+               top:570px;
+               left: 390px;
+            }
+            .fairytale{
+               position: absolute;
+               color: white;
+               top:570px;
+               left: 760px;
+            }
+            .fruitbasket{
+               position: absolute;
+               color: white;
+               top:570px;
+               left: 1120px;
+            }
+            .iamsml{
+               position: absolute;
+               color: white;
+               top:1100px;
+               left: 40px;
+            }
+            .datealive{
+               position: absolute;
+               color: white;
+               top:1100px;
+               left: 390px;
+            }
+            .lovetyrant{
+               position: absolute;
+               color: white;
+               top:1100px;
+               left: 760px;
+            }
+            .monstermuseum{
+               position: absolute;
+               color: white;
+               top:1100px;
+               left: 1120px;
+            }
+            .chfakn{
+               position: absolute;
+               color: white;
+               top:1660px;
+               left: 40px;
+            }
+            .tesinede{
+               position: absolute;
+               color: white;
+               top:1660px;
+               left: 390px;
+            }
+            .hsphieiaw{
+               position: absolute;
+               color: white;
+               top:1660px;
+               left: 760px;
+            }
+            .mycophwo{
+               position: absolute;
+               color: white;
+               top:1660px;
+               left: 1120px;
+            }
+            .hundred{
+               position: absolute;
+               color: white;
+               top:2220px;
+               left: 40px;
+            }
+            .thdoice{
+               position: absolute;
+               color: white;
+               top:2220px;
+               left: 390px;
+            }
+            .theasteriskwar{
+               position: absolute;
+               color: white;
+               top:2220px;
+               left: 760px;
+            }
+            .aroabmi{
+               position: absolute;
+               color: white;
+               top:2220px;
+               left: 1120px;
+            }
+            .nycrwilo{
+               position: absolute;
+               color: white;
+               top:2780px;
+               left: 40px;
+            }
+            .wnaocfahs{
+               position: absolute;
+               color: white;
+               top:2780px;
+               left: 390px;
+            }
+            .yathhs{
+               position: absolute;
+               color: white;
+               top:2780px;
+               left: 760px;
+            }
+            .tsurezurechildren{
+               position: absolute;
+               color: white;
+               top:2780px;
+               left: 1120px;
+            }
+            .mfgiag{
+               position: absolute;
+               color: white;
+               top:3340px;
+               left: 40px;
+            }
+            .nisekoifalselove{
+               position: absolute;
+               color: white;
+               top:3340px;
+               left: 390px;
+            }
+            .thequinquin{
+               position: absolute;
+               color: white;
+               top:3340px;
+               left: 760px;
+            }
+            .tnstmokt{
+               position: absolute;
+               color: white;
+               top:3340px;
+               left: 1120px;
+            }
+            .hunterxhunter{
+               position: absolute;
+               color: white;
+               top:3900px;
+               left: 40px;
+            }
+            .dtwmmn{
+               position: absolute;
+               color: white;
+               top:3900px;
+               left: 390px;
+            }
+            .kotourasan{
+               position: absolute;
+               color: white;
+               top:3900px;
+               left: 760px;
+            }
+            .rezero{
+               position: absolute;
+               color: white;
+               top:3900px;
+               left: 1120px;
+            }
+            .myheroacademia{
+               position: absolute;
+               color: white;
+               top:4460px;
+               left: 40px;
+            }
+            .gosick{
+               position: absolute;
+               color: white;
+               top:4460px;
+               left: 390px;
+            }
+            .crote{
+               position: absolute;
+               color: white;
+               top:4460px;
+               left: 760px;
+            }
+            .wtdsi{
+               position: absolute;
+               color: white;
+               top:4460px;
+               left: 1120px;
+            }
+            .ttigraas{
+               position: absolute;
+               color: white;
+               top:5020px;
+               left: 40px;
+            }
+            .jujutsukaisen{
+               position: absolute;
+               color: white;
+               top:5020px;
+               left: 390px;
+            }
+            .citrus{
+               position: absolute;
+               color: white;
+               top:5020px;
+               left: 760px;
+            }
+            .bidwtghsimomd{
+               position: absolute;
+               color: white;
+               top:5020px;
+               left: 1120px;
+            }
+            .kotsol{
+               position: absolute;
+               color: white;
+               top:5610px;
+               left: 40px;
+            }
+            .boruto{
+               position: absolute;
+               color: white;
+               top:5610px;
+               left: 390px;
+            }
+            .onepunchman{
+               position: absolute;
+               color: white;
+               top:5610px;
+               left: 760px;
+            }
+            .tokyorevengers{
+               position: absolute;
+               color: white;
+               top:5610px;
+               left: 1120px;
+            }
+            .tejinasenpai{
+               position: absolute;
+               color: white;
+               top:6170px;
+               left: 40px;
+            }
+            .toradora{
+               position: absolute;
+               color: white;
+               top:6170px;
+               left: 390px;
+            }
+            .haganai{
+               position: absolute;
+               color: white;
+               top:6170px;
+               left: 760px;
+            }
+            .rosariovampire{
+               position: absolute;
+               color: white;
+               top:6170px;
+               left: 1120px;
+            }
+            .makenki{
+               position: absolute;
+               color: white;
+               top:6700px;
+               left: 40px;
+            }
+            .highschooldxd{
+               position: absolute;
+               color: white;
+               top:6700px;
+               left: 390px;
+            }
+            .haikyu{
+               position: absolute;
+               color: white;
+               top:6700px;
+               left: 760px;
+            }
+            .next1{
+               position: absolute;
+               top:6700px;
+               left: 1120px;
+            }
+            .next1 button{
+                cursor: pointer;
+                background: #03142E;
+                color: white;
+            }
+
+            /* SAL 2 page 2 (52 to 102) ------------------------------------> */
+             /* -----------------------------------------> */
+ 
+            .konoSuba{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .swordartonline{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .iawwms{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .demonslayer{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }
+            .btgog{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 40px;
+            }
+            .itaz{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 390px;
+            }
+            .tdiad{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 760px;
+            }
+            .bgi5s{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 1120px;
+            }
+            .ayttinago{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 40px;
+            }
+            .mogido{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 390px;
+            }
+            .asflag{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 760px;
+            }
+            .chthioboc{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 1120px;
+            }
+            .mgitmth{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 40px;
+            }
+            .phston2{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 390px;
+            }
+            .mylimo{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 760px;
+            }
+            .haywtfilwapalasac{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 1120px;
+            }
+            .sakftldbmtast{
+               position: absolute;
+               color: white;
+               top:2340px;
+               left: 40px;
+            }
+            .mushokutensei{
+               position: absolute;
+               color: white;
+               top:2340px;
+               left: 390px;
+            }
+            .magicalwarfare{
+               position: absolute;
+               color: white;
+               top:2340px;
+               left: 760px;
+            }
+            .agm{
+               position: absolute;
+               color: white;
+               top:2340px;
+               left: 1120px;
+            }
+            .accs{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 40px;
+            }
+            .tow{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 390px;
+            }
+            .cwbd {
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 760px;
+            }
+            .Habrisatiahsr{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 1120px;
+            }
+            .hyouka{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 40px;
+            }
+            .schoolbabysitter{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 390px;
+            }
+            .tnfil{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 760px;
+            }
+            .senryugirl{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 1120px;
+            }
+            .tdiapt{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 40px;
+            }
+            .tgoh{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 390px;
+            }
+            .kemonojhien{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 760px;
+            }
+            .nogamenolife{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 1120px;
+            }
+            .drmds{
+               position: absolute;
+               color: white;
+               top:4580px;
+               left: 40px;
+            }
+            .dkd{
+               position: absolute;
+               color: white;
+               top:4580px;
+               left: 390px;
+            }
+            .ulma{
+               position: absolute;
+               color: white;
+               top:4580px;
+               left: 760px;
+            }
+            .maah{
+               position: absolute;
+               color: white;
+               top:4580px;
+               left: 1120px;
+            }
+            .tachap{
+               position: absolute;
+               color: white;
+               top:5140px;
+               left: 40px;
+            }
+            .scissorsseven{
+               position: absolute;
+               color: white;
+               top:5140px;
+               left: 390px;
+            }
+            .cellsatwork{
+               position: absolute;
+               color: white;
+               top:5140px;
+               left: 760px;
+            }
+            .dlohsb{
+               position: absolute;
+               color: white;
+               top:5140px;
+               left: 1120px;
+            }
+            .placetoplace {
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 40px;
+            }
+            .rddabgs{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 390px;
+            }
+            .another{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 760px;
+            }
+            .remakeourlife{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 1120px;
+            }
+            .tmts{
+               position: absolute;
+               color: white;
+               top:6260px;
+               left: 40px;
+            }
+            .horimiya{
+               position: absolute;
+               color: white;
+               top:6260px;
+               left: 390px;
+            }
+            .thfss{
+               position: absolute;
+               color: white;
+               top:6260px;
+               left: 760px;
+            }
+            .grandblue{
+               position: absolute;
+               color: white;
+               top:6260px;
+               left: 1120px;
+            }
+            .tmfotdka{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 40px;
+            }
+            .kcc{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 390px;
+            }
+            .futurediary{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 760px;
+            }
+            .prev2{
+               position: absolute;
+               top:6820px;
+               left: 1120px;
+            }
+            .prev2 button{
+                cursor: pointer;
+                background: #03142E;
+                color: white;
+            }
+            .next2{
+               position: absolute;
+               top:6820px;
+               left:1270px;
+            }
+            .next2 button{
+                cursor: pointer;
+                background: #03142E;
+                color: white;
+            }
+
+            .abb{
+                position: absolute;
+                top: 7410px;
+              }
+
+            /* SAL 3 page 3 (103 to 153) --------------------------------------------------------->*/
+            /* -------------------------------------------------------------------------> */
+
+            .dmttpwr{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .ibksf300yamoml{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .ksliw{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .mdud{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }
+            .blackclover{
+               position: absolute;
+               color: white;
+               top:630px;
+               left: 40px;
+            }
+            .sote{
+               position: absolute;
+               color: white;
+               top:630px;
+               left: 390px;
+            }
+            .sswwc{
+               position: absolute;
+               color: white;
+               top:630px;
+               left: 760px;
+            }
+            .bloodlad{
+               position: absolute;
+               color: white;
+               top:630px;
+               left: 1120px;
+            }
+            .skiaw{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 40px;
+            }
+            .tgdliratn{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 390px;
+            }
+            .aii{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 760px;
+            }
+            .iqh{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 1120px;
+            }
+            .hntsadl{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 40px;
+            }
+            .hri{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 390px;
+            }
+            .tiamhs{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 760px;
+            }
+            .spyxfamily{
+               position: absolute;
+               color: white;
+               top:1750px;
+               left: 1120px;
+            }
+            .tgpgtranood{
+               position: absolute;
+               color: white;
+               top:2310px;
+               left: 40px;
+            }
+            .rag{
+               position: absolute;
+               color: white;
+               top:2310px;
+               left: 390px;
+            }
+            .snjac{
+               position: absolute;
+               color: white;
+               top:2310px;
+               left: 760px;
+            }
+            .tfp{
+               position: absolute;
+               color: white;
+               top:2310px;
+               left: 1120px;
+            }
+            .tdotw{
+               position: absolute;
+               color: white;
+               top:2870px;
+               left: 40px;
+            }
+            .icm{
+               position: absolute;
+               color: white;
+               top:2870px;
+               left: 390px;
+            }
+            .harhrtk{
+               position: absolute;
+               color: white;
+               top:2870px;
+               left: 760px;
+            }
+            .tmoraboe{
+               position: absolute;
+               color: white;
+               top:2870px;
+               left: 1120px;
+            }
+            .tfoe{
+               position: absolute;
+               color: white;
+               top:3430px;
+               left: 40px;
+            }
+            .wmg{
+               position: absolute;
+               color: white;
+               top:3430px;
+               left: 390px;
+            }
+            .smgl{
+               position: absolute;
+               color: white;
+               top:3430px;
+               left: 760px;
+            }
+            .ahogirl{
+               position: absolute;
+               color: white;
+               top:3430px;
+               left: 1120px;
+            }
+            .mkr{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 40px;
+            }
+            .asv{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 390px;
+            }
+            .iwteyp{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 760px;
+            }
+            .ylia{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 1120px;
+            }
+            .goldentime{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 40px;
+            }
+            .campione{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 390px;
+            }
+            .overlord{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 760px;
+            }
+            .afctws{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 1120px;
+            }
+            .acoc{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 40px;
+            }
+            .tiadstwoogitfm{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 390px;
+            }
+            .ditf{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 760px;
+            }
+            .t8saykm{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 1120px;
+            }
+            .princesslover{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 40px;
+            }
+            .tmf{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 390px;
+            }
+            .dw{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 760px;
+            }
+            .codegeass{
+               position: absolute;
+               color: white;
+               top:5700px;
+               left: 1120px;
+            }
+            .bs{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 40px;
+            }
+            .mil{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 390px;
+            }
+            .tmdbu{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 760px;
+            }
+            .btb{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 1120px;
+            }
+            .tls{
+               position: absolute;
+               color: white;
+               top:6790px;
+               left: 40px;
+            }
+            .tcotn{
+               position: absolute;
+               color: white;
+               top:6790px;
+               left: 390px;
+            }
+            .tg{
+               position: absolute;
+               color: white;
+               top:6790px;
+               left: 760px;
+            }
+            .prev3{
+               position: absolute;
+               top:6790px;
+               left: 1120px;
+            }
+            .prev3 button{
+                cursor: pointer;
+                background: #03142E;
+                color: white;
+            }
+            .next3{
+               position: absolute;
+               top:6790px;
+               left:1270px;
+            }
+            .next3 button{
+                cursor: pointer;
+                background: #03142E;
+                color: white;
+            }
+
+            .abc{
+                position: absolute;
+                top: 7380px;
+              }
+
+            /* SAL 4 page 4 (154 to 204)----------------------------------------------------------> */
+             /* -------------------------------------------------------------------------> */
+
+            .kakegurui{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .vig{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .lmav{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .engagekiss{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }           
+            .olcotronw{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 40px;
+            }
+            .acmi{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 390px;
+            }
+            .beelzebub{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 760px;
+            }
+            .yourname{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 1120px;
+            }
+            .aoarh{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 40px;
+            }
+            .weneverlearn{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 390px;
+            }
+            .mgnk{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 760px;
+            }
+            .mcg{
+               position: absolute;
+               color: white;
+               top:1160px;
+               left: 1120px;
+            }
+            .gfgf{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 40px;
+            }
+            .tamb{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 390px;
+            }
+            .shtrabg{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 760px;
+            }
+            .oaytoowlm{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 1120px;
+            }
+            .oreshura{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 40px;
+            }
+            .iiwtpugiad{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 390px;
+            }
+            .overthesky{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 760px;
+            }
+            .beasttamer{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 1120px;
+            }
+            .teits{
+               position: absolute;
+               color: white;
+               top:2810px;
+               left: 40px;
+            }
+            .itvsittfb{
+               position: absolute;
+               color: white;
+               top:2810px;
+               left: 390px;
+            }
+            .myrciwaie{
+               position: absolute;
+               color: white;
+               top:2810px;
+               left: 760px;
+            }
+            .gbtw{
+               position: absolute;
+               color: white;
+               top:2810px;
+               left: 1120px;
+            }
+            .mtamcbnl{
+               position: absolute;
+               color: white;
+               top:3370px;
+               left: 40px;
+            }
+            .bhmdf{
+               position: absolute;
+               color: white;
+               top:3370px;
+               left: 390px;
+            }
+            .isgswiimfrs{
+               position: absolute;
+               color: white;
+               top:3370px;
+               left: 760px;
+            }
+            .tabootattoo{
+               position: absolute;
+               color: white;
+               top:3370px;
+               left: 1120px;
+            }
+            .gamers{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 40px;
+            }
+            .aim{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 390px;
+            }
+            .bsj{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 760px;
+            }
+            .tcaaha{
+               position: absolute;
+               color: white;
+               top:3960px;
+               left: 1120px;
+            }
+            .sabwtcodjde{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 40px;
+            }
+            .cyberpunk{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 390px;
+            }
+            .adawstw{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 760px;
+            }
+            .cciawwmas{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 1120px;
+            }
+            .tissrtw{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 40px;
+            }
+            .parasitetm{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 390px;
+            }
+            .hsiaw{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 760px;
+            }
+            .fliaw{
+               position: absolute;
+               color: white;
+               top:5110px;
+               left: 1120px;
+            }
+            .gboa{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 40px;
+            }
+            .tandsmr{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 390px;
+            }
+            .bluelock{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 760px;
+            }
+            .tciag{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 1120px;
+            }
+            .trotseiaw{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 40px;
+            }
+            .cim30agfftdka{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 390px;
+            }
+            .wwy{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 760px;
+            }
+            .roth{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 1120px;
+            }
+            .angelbeats{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 40px;
+            }
+            .loghorizon{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 390px;
+            }
+            .lya999{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 760px;
+            }
+            .prev4{
+               position: absolute;
+               top:6820px;
+               left: 1120px;
+            }
+            .prev4 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+            .next4{
+               position: absolute;
+               top:6820px;
+               left:1270px;
+            }
+            .next4 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+
+            .abd{
+                position: absolute;
+                top: 7410px;
+              }
+
+            /* SAL 5 page 5 (205 to 255) -------------------------------------------------->*/
+            /* -------------------------------------------------------------------------> */
+
+            .ctcp{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .inSpectre{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .charlotte{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .tdodahm{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }
+            .dmdp{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 40px;
+            }
+            .igacsiawabuitrwt{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 390px;
+            }
+            .kwfgiagw{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 760px;
+            }
+            .mystar{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 1120px;
+            }
+            .tlhid{
+               position: absolute;
+               color: white;
+               top:1220px;
+               left: 40px;
+            }
+            .mmam{
+               position: absolute;
+               color: white;
+               top:1220px;
+               left: 390px;
+            }
+            .tdimh{
+               position: absolute;
+               color: white;
+               top:1220px;
+               left: 760px;
+            }
+            .hp{
+               position: absolute;
+               color: white;
+               top:1220px;
+               left: 1120px;
+            }
+            .agnd{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 40px;
+            }
+            .stawfast{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 390px;
+            }
+            .taoasgwgtf{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 760px;
+            }
+            .ad{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 1120px;
+            }
+            .kwlmbi{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 40px;
+            }
+            .tgdn{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 390px;
+            }
+            .asr{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 760px;
+            }
+            .tctaig{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 1120px;
+            }
+            .bleach{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 40px;
+            }
+            .dg{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 390px;
+            }
+            .fdtungfdristtrl{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 760px;
+            }
+            .noragami{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 1120px;
+            }
+            .teyilb{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 40px;
+            }
+            .tmtowly{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 390px;
+            }
+            .fuuka{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 760px;
+            }
+            .lcaod{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 1120px;
+            }
+            .amagamiss{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 40px;
+            }
+            .gate{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 390px;
+            }
+            .cupidsc{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 760px;
+            }
+            .lawd{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 1120px;
+            }
+            .hs{
+               position: absolute;
+               color: white;
+               top:4640px;
+               left: 40px;
+            }
+            .ias{
+               position: absolute;
+               color: white;
+               top:4640px;
+               left: 390px;
+            }
+            .totmfy{
+               position: absolute;
+               color: white;
+               top:4640px;
+               left: 760px;
+            }
+            .orwtcfwl{
+               position: absolute;
+               color: white;
+               top:4640px;
+               left: 1120px;
+            }
+            .tdbiar{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 40px;
+            }
+            .tglfhg{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 390px;
+            }
+            .sr{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 760px;
+            }
+            .raavmniwtd{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 1120px;
+            }
+            .aiats{
+               position: absolute;
+               color: white;
+               top:5820px;
+               left: 40px;
+            }
+            .rotss{
+               position: absolute;
+               color: white;
+               top:5820px;
+               left: 390px;
+            }
+            .liarliar{
+               position: absolute;
+               color: white;
+               top:5820px;
+               left: 760px;
+            }
+            .musmmoeal1{
+               position: absolute;
+               color: white;
+               top:5820px;
+               left: 1120px;
+            }
+            .z100blotd{
+               position: absolute;
+               color: white;
+               top:6380px;
+               left: 40px;
+            }
+            .darkgathering{
+               position: absolute;
+               color: white;
+               top:6380px;
+               left: 390px;
+            }
+            .cfh{
+               position: absolute;
+               color: white;
+               top:6380px;
+               left: 760px;
+            }
+            .gs{
+               position: absolute;
+               color: white;
+               top:6380px;
+               left: 1120px;
+            }
+            .adbu{
+               position: absolute;
+               color: white;
+               top:6940px;
+               left: 40px;
+            }
+            .tgc{
+               position: absolute;
+               color: white;
+               top:6940px;
+               left: 390px;
+            }
+            .tsotte{
+               position: absolute;
+               color: white;
+               top:6940px;
+               left: 760px;
+            }
+            .prev5{
+               position: absolute;
+               top:6940px;
+               left: 1120px;
+            }
+            .prev5 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+            .next5{
+               position: absolute;
+               top:6940px;
+               left:1270px;
+            }
+            .next5 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+            .abe{
+                position: absolute;
+                top: 7530px;
+              }
+
+            /* SAL 6 page 6 (256 to 306)-------------------------------------------------------> */
+            /* -------------------------------------------------------------------------> */
+
+
+            .tnoclol{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .dk{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .str{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .hw{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }
+            .tttsteogu{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 40px;
+            }
+            .tgw{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 390px;
+            }
+            .bog{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 760px;
+            }
+            .tkr{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 1120px;
+            }
+            .odsteyatimk{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 40px;
+            }
+            .t100gwrrrrrly{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 390px;
+            }
+            .s16bsal{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 760px;
+            }
+            .pr{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 1120px;
+            }
+            .apoacdvl{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 40px;
+            }
+            .slf{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 390px;
+            }
+            .armsbs{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 760px;
+            }
+            .igtdnliraccin{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 1120px;
+            }
+            .bfthp{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 40px;
+            }
+            .tdobc{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 390px;
+            }
+            .ac{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 760px;
+            }
+            .btct{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 1120px;
+            }
+            .rkfd{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 40px;
+            }
+            .gleipnir{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 390px;
+            }
+            .undeadunluck{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 760px;
+            }
+            .midaio{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 1120px;
+            }
+            .rcreators{
+               position: absolute;
+               color: white;
+               top:3490px;
+               left: 40px;
+            }
+            .sg{
+               position: absolute;
+               color: white;
+               top:3490px;
+               left: 390px;
+            }
+            .twwtuhm{
+               position: absolute;
+               color: white;
+               top:3490px;
+               left: 760px;
+            }
+            .tstlratwar9999rsgkfthp{
+               position: absolute;
+               color: white;
+               top:3490px;
+               left: 1120px;
+            }
+            .ttowr{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 40px;
+            }
+            .cs{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 390px;
+            }
+            .hgasa{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 760px;
+            }
+            .tfadwtd{
+               position: absolute;
+               color: white;
+               top:4050px;
+               left: 1120px;
+            }
+            .ff{
+               position: absolute;
+               color: white;
+               top:4610px;
+               left: 40px;
+            }
+            .iwraa7psictmtpmma{
+               position: absolute;
+               color: white;
+               top:4610px;
+               left: 390px;
+            }
+            .ggwp{
+               position: absolute;
+               color: white;
+               top:4610px;
+               left: 760px;
+            }
+            .wb{
+               position: absolute;
+               color: white;
+               top:4610px;
+               left: 1120px;
+            }
+            .aadhtlyeb{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 40px;
+            }
+            .gagtya{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 390px;
+            }
+            .araaiumastritw{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 760px;
+            }
+            .bgog{
+               position: absolute;
+               color: white;
+               top:5230px;
+               left: 1120px;
+            }
+            .um{
+               position: absolute;
+               color: white;
+               top:5850px;
+               left: 40px;
+            }
+            .myf{
+               position: absolute;
+               color: white;
+               top:5850px;
+               left: 390px;
+            }
+            .tbfhlahp{
+               position: absolute;
+               color: white;
+               top:5850px;
+               left: 760px;
+            }
+            .vh{
+               position: absolute;
+               color: white;
+               top:5850px;
+               left: 1120px;
+            }
+            .rogw{
+               position: absolute;
+               color: white;
+               top:6410px;
+               left: 40px;
+            }
+            .sc{
+               position: absolute;
+               color: white;
+               top:6410px;
+               left: 390px;
+            }
+            .pp{
+               position: absolute;
+               color: white;
+               top:6410px;
+               left: 760px;
+            }
+            .bsd{
+               position: absolute;
+               color: white;
+               top:6410px;
+               left: 1120px;
+            }
+            .mosg{
+               position: absolute;
+               color: white;
+               top:6970px;
+               left: 40px;
+            }
+            .akumakun{
+               position: absolute;
+               color: white;
+               top:6970px;
+               left: 390px;
+            }
+            .wlihfo{
+               position: absolute;
+               color: white;
+               top:6970px;
+               left: 760px;
+            }
+            .prev6{
+               position: absolute;
+               top:6970px;
+               left: 1120px;
+            }
+            .prev6 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+            .next6{
+               position: absolute;
+               top:6970px;
+               left:1270px;
+            }
+            .next6 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+            .abf{
+                position: absolute;
+                top: 7590px;
+              }
+
+            /* SAL 7 page 7 (307 to 357) ----------------------------------------------------->*/
+            /* ------------------------------------------------------------------------->*/
+
+
+            .durarara{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .ts{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .saglai{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .sawmmtww{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }           
+            .sboe{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 40px;
+            }
+            .abp{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 390px;
+            }
+            .ph{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 760px;
+            }
+            .dwmss{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 1120px;
+            }
+            .tfg{
+               position: absolute;
+               color: white;
+               top:1130px;
+               left: 40px;
+            }
+            .s25ds{
+               position: absolute;
+               color: white;
+               top:1130px;
+               left: 390px;
+            }
+            .nlaiaw{
+               position: absolute;
+               color: white;
+               top:1130px;
+               left: 760px;
+            }
+            .ashhfir{
+               position: absolute;
+               color: white;
+               top:1130px;
+               left: 1120px;
+            }
+            .shtbo{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 40px;
+            }
+            .wdnrmitw{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 390px;
+            }
+            .tona{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 760px;
+            }
+            .amdm{
+               position: absolute;
+               color: white;
+               top:1690px;
+               left: 1120px;
+            }
+            .anwytaeh{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 40px;
+            }
+            .ipe{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 390px;
+            }
+            .ffibtsaaewlls{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 760px;
+            }
+            .kam{
+               position: absolute;
+               color: white;
+               top:2250px;
+               left: 1120px;
+            }
+            .oc{
+               position: absolute;
+               color: white;
+               top:2840px;
+               left: 40px;
+            }
+            .mtmlh{
+               position: absolute;
+               color: white;
+               top:2840px;
+               left: 390px;
+            }
+            .ykatsw{
+               position: absolute;
+               color: white;
+               top:2840px;
+               left: 760px;
+            }
+            .omlscbtc{
+               position: absolute;
+               color: white;
+               top:2840px;
+               left: 1120px;
+            }
+            .tse{
+               position: absolute;
+               color: white;
+               top:3400px;
+               left: 40px;
+            }
+            .tsmitdlawah{
+               position: absolute;
+               color: white;
+               top:3400px;
+               left: 390px;
+            }
+            .ss{
+               position: absolute;
+               color: white;
+               top:3400px;
+               left: 760px;
+            }
+            .attags{
+               position: absolute;
+               color: white;
+               top:3400px;
+               left: 1120px;
+            }
+            .sicph{
+               position: absolute;
+               color: white;
+               top:3990px;
+               left: 40px;
+            }
+            .bbb{
+               position: absolute;
+               color: white;
+               top:3990px;
+               left: 390px;
+            }
+            .yams{
+               position: absolute;
+               color: white;
+               top:3990px;
+               left: 760px;
+            }
+            .castlevania{
+               position: absolute;
+               color: white;
+               top:3990px;
+               left: 1120px;
+            }
+            .gp{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 40px;
+            }
+            .dandadan{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 390px;
+            }
+            .lliaw{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 760px;
+            }
+            .gbdl{
+               position: absolute;
+               color: white;
+               top:4520px;
+               left: 1120px;
+            }
+            .danganronpa{
+               position: absolute;
+               color: white;
+               top:5080px;
+               left: 40px;
+            }
+            .ltgsr{
+               position: absolute;
+               color: white;
+               top:5080px;
+               left: 390px;
+            }
+            .tmntrtwgc{
+               position: absolute;
+               color: white;
+               top:5080px;
+               left: 760px;
+            }
+            .ranma12{
+               position: absolute;
+               color: white;
+               top:5080px;
+               left: 1120px;
+            }
+            .w365dttw{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 40px;
+            }
+            .ttnwas{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 390px;
+            }
+            .es{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 760px;
+            }
+            .ptgaoat{
+               position: absolute;
+               color: white;
+               top:5670px;
+               left: 1120px;
+            }
+            .bsf{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 40px;
+            }
+            .ianotborsimawtmm{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 390px;
+            }
+            .mkiitmc{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 760px;
+            }
+            .htawfstbf{
+               position: absolute;
+               color: white;
+               top:6230px;
+               left: 1120px;
+            }
+            .ofilwogbijwikwss{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 40px;
+            }
+            .igmtagihimc{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 390px;
+            }
+            .bucchigiri{
+               position: absolute;
+               color: white;
+               top:6820px;
+               left: 760px;
+            }
+            .prev7{
+               position: absolute;
+               top:6820px;
+               left: 1120px;
+            }
+            .prev7 button{
+                cursor: pointer;
+                color: white;
+                background:#03142E;
+            }
+            .next7{
+               position: absolute;
+               top:6820px;
+               left:1270px;
+            }
+            .next7 button{
+                cursor: pointer;
+                color: white;
+                background:#03142E;
+            }
+            .abg{
+                position: absolute;
+                top: 7470px;
+              }
+
+            /* SAL 8 page 8 (358 to 390)--------------------------------------------------> */
+            /* ------------------------------------------------------------------------->*/
+
+
+            .ihfb{
+               color: white;
+               padding-left: 40px;
+               margin-top: 40px;
+            }
+            .cc{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 390px;
+            }
+            .rw{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 760px;
+            }
+            .tfog{
+               position: absolute;
+               color: white;
+               top:40px;
+               left: 1120px;
+            }           
+            .sd{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 40px;
+            }
+            .wtjme{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 390px;
+            }
+            .turmtr{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 760px;
+            }
+            .egtwaciats{
+               position: absolute;
+               color: white;
+               top:600px;
+               left: 1120px;
+            }
+            .ilmapthmfsrtdd{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 40px;
+            }
+            .bitd{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 390px;
+            }
+            .bakemonogatari{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 760px;
+            }
+            .relife{
+               position: absolute;
+               color: white;
+               top:1190px;
+               left: 1120px;
+            }
+            .mgx{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 40px;
+            }
+            .rob{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 390px;
+            }
+            .tbhnlits{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 760px;
+            }
+            .ydescmatwfaw{
+               position: absolute;
+               color: white;
+               top:1780px;
+               left: 1120px;
+            }
+            .tsfc{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 40px;
+            }
+            .pptots{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 390px;
+            }
+            .rc{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 760px;
+            }
+            .cabgfs{
+               position: absolute;
+               color: white;
+               top:2370px;
+               left: 1120px;
+            }
+            .sotdhkg{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 40px;
+            }
+            .tcitb{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 390px;
+            }
+            .focbtms{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 760px;
+            }
+            .ubc{
+               position: absolute;
+               color: white;
+               top:2930px;
+               left: 1120px;
+            }
+            .se{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 40px;
+            }
+            .sp{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 390px;
+            }
+            .tuam{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 760px;
+            }
+            .ww{
+               position: absolute;
+               color: white;
+               top:3520px;
+               left: 1120px;
+            }
+            .twisb{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 40px;
+            }
+            .tdloamaosiaw{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 390px;
+            }
+            .mmhtmmiaw{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 760px;
+            }
+            .iteloaie{
+               position: absolute;
+               color: white;
+               top:4080px;
+               left: 1120px;
+            }
+            .seiren{
+               position: absolute;
+               color: white;
+               top:4680px;
+               left: 40px;
+            }
+            .goldenboy{
+               position: absolute;
+               color: white;
+               top:4680px;
+               left: 390px;
+            }
+
+            .tcsov{
+               position: absolute;
+               color: white;
+               top:4680px;
+               left:760px;
+            }
+
+            .days91{
+               position: absolute;
+               color: white;
+               top:4680px;
+               left:1120px;
+            }
+
+            .dragonraja{
+               position: absolute;
+               color: white;
+               top:5220px;
+               left:40px;
+            }
+
+            .kaijuno8{
+               position: absolute;
+               color: white;
+               top:5220px;
+               left:390px;
+            }
+
+            .theapothecaryd{
+               position: absolute;
+               color: white;
+               top:5220px;
+               left:760px;
+            }
+
+            .prev8{
+               position: absolute;
+               top:6970px;
+               left: 1120px;
+            }
+            .prev8 button{
+                cursor: pointer;
+                color: white;
+                background:#03142E;
+            }
+            .next8{
+               position: absolute;
+               top:6970px;
+               left:1270px;
+            }
+            .next8 button{
+                cursor: pointer;
+                color: white;
+                background: #03142E;
+            }
+            .abh{
+                position: absolute;
+                top: 7560px;
+              }
